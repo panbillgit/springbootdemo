@@ -1,0 +1,7 @@
+#DataSource config
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://117.78.40.141:3306/shabro?allowMultiQueries=true&useAffectedRows=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false
+    data-username: root
+    data-password: Ckg48@ssd@2018
